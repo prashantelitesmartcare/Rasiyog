@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Rasiyog</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_signup_screen">SignupScreen</string>
+    <string name="title_activity_message">Message</string>
+    <string name="title_activity_message__details">Message_Details</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_horscope_screen">HorscopeScreen</string>
+    <string name="title_activity_match_making">MatchMaking</string>
+    <string name="title_activity_question_screen">QuestionScreen</string>
+    <string name="dummy">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy t</string>
+    <string name="title_activity_vastu_screen">VastuScreen</string>
+    <string name="title_activity_horscopemaking_screen">HorscopemakingScreen</string>
+    <string name="title_activity_horoscope_deatil">HoroscopeDeatil</string>
+    <string name="title_activity_profile__edit">Profile_Edit</string>
+    <string name="title_activity_change__password">Change_Password</string>
+    <string name="title_activity_forgot_screen">ForgotScreen</string>
+    <string name="title_activity_webview_screen">WebviewScreen</string>
+  <!--  <string name="Facebook_App_Id">1134285039923634</string>-->
+    <string name="title_activity_user_profile">User_profile</string>
+    <string name="Facebook_App_Id">223582044652491</string>
+</resources>

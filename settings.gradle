@@ -1,0 +1,1 @@
+include ':app', ':CustomBrowser-release', ':PayU-release', ':sdkui'

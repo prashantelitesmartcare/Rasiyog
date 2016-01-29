@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" >
+    <solid android:color="#59000000"></solid>
+    <corners
+        android:radius="0dp"/>
+</shape><!-- From: file:/C:/Users/Sarbjyot_2/Desktop/New%20folder%20(2)/New%20folder/Android-SDK-Sample-App-master/sdkui/src/main/res/drawable/background_drawable.xml --><!-- From: file:/C:/Users/Sarbjyot_2/Desktop/New%20folder%20(2)/New%20folder/Android-SDK-Sample-App-master/sdkui/build/intermediates/bundles/debug/res/drawable/background_drawable.xml -->

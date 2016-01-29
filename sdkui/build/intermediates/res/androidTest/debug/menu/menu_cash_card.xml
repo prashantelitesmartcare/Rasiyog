@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.payuResponse.testapp.CashCardActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
+<!-- From: file:/C:/Users/Sarbjyot_2/Desktop/New%20folder%20(2)/New%20folder/Android-SDK-Sample-App-master/sdkui/src/main/res/menu/menu_cash_card.xml --><!-- From: file:/C:/Users/Sarbjyot_2/Desktop/New%20folder%20(2)/New%20folder/Android-SDK-Sample-App-master/sdkui/build/intermediates/bundles/debug/res/menu/menu_cash_card.xml -->
